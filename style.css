@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #D32F2F !important;
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.nav-link:hover{
+    color: rgb(108, 103, 131) !important;
+}
+
+img{
+    width: 50px !important;
+
+}
+span{
+    color: rosybrown;
+    font-style: italic;
+}

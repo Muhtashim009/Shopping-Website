@@ -20,6 +20,6 @@ span{
     font-style: italic;
 }
 
-.fa-shopping-cart{
+.fa-shopping-cart, .fa-users{
     font-size: 32px !important;
 }

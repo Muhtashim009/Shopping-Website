@@ -19,3 +19,7 @@ span{
     color: rosybrown;
     font-style: italic;
 }
+
+.fa-shopping-cart{
+    font-size: 32px !important;
+}

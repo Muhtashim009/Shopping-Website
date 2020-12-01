@@ -52,3 +52,8 @@ h3{
     flex-wrap: wrap;
 }
 
+@media screen and (max-width: 600px) {
+    .card1, .card2, .card3{
+        width: 100%;
+    }
+}

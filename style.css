@@ -77,3 +77,19 @@ h3{
 .btn{
     width: 100%;
 }
+
+.footer{
+    margin-top: 50px;
+    width: 100%;
+    background-color: #2f5c77;
+    height: 70px;
+}
+
+.footer-text {
+    text-align: center !important;
+}
+
+
+h4{
+    color: white;;
+}
